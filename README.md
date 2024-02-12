@@ -14,7 +14,7 @@ I'm currently a senior Computer Science student at Chulalongkorn University. I h
 - Mathematics Science Computer Program, Rayongwittayakom school
 ## 💼 Work Experience
 
-- Intern, Backend Developer, Agoda (Current)
+- Intern, Software Engineer, Agoda (Current)
 - Part time, Fullstack developer, HAUS64
 - Intern, Penetration Tester, NITMX
 - Intern, Software Developer, Diageo Moet Hennessy
